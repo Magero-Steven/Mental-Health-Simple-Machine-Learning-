@@ -1,5 +1,8 @@
 # Mental-Health-Simple-Machine-Learning
 
+![image](https://github.com/user-attachments/assets/35d96580-3661-4ce2-a96c-aced9aaf4370)
+
+
 ## Project Overview
 This project explores the correlation between various socioeconomic factors and mental health outcomes, specifically depression risk. The goal is to use machine learning techniques to identify how independent variables such as **income, education, marital status, and physical health** influence depression risk.
 
